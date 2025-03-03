@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\task01\logic.cpp">
+    <ClCompile Include="..\task01\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\task01\main.cpp">
+    <ClCompile Include="logicc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

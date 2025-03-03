@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\task01\logic.cpp" />
     <ClCompile Include="..\task01\main.cpp" />
+    <ClCompile Include="logicc.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\task01\logic.h" />
